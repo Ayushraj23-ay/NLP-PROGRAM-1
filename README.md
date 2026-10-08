@@ -359,7 +359,7 @@ You can add an open-source license such as the MIT License if you plan to distri
 
 👨‍💻 Author
 
-AYUSH KUMAR SINGH
+AYUSH Raj
 
 A hands-on collection of NLP concepts, implementations, and practical examples using Python.
 
